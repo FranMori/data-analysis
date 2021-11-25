@@ -1,3 +1,4 @@
 module.exports = {
-  publicPath: '/data-analysis/'
+  // publicPath: '/data-analysis/'
+  publicPath: ""
 }
